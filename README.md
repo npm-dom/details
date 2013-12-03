@@ -5,7 +5,7 @@ Create and emulate html5 details tag
 ## Example
 
 ```js
-var D}etails = require("details")
+var Details = require("details")
 var dom = require("jsonml-stringify/dom")
 
 var content = dom(["div", "hidden content"])
